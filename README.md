@@ -119,7 +119,7 @@ we are nothing without your support please support us to bring more features in 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/info.py) for more optional variables
+* Check [info.py](https://github.com/Ag1432/Luffy-filter-bot/blob/main/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
